@@ -35,10 +35,3 @@ is to design a autonomous robot capable of mining in extraterrestrial
 environments. NASA simulates a mining environment similar to one on mars where
 teams earn design points based on the efficiency of the robot, the weight of the
 robot, the data consumed by the robot, and even how weather-proof is the robot!
-
-Hello everyone, my name is Jigar Mistry. I am a 3rd year undergrad in Mechanical
-Engineering.I joined Illinois Tech in fall of 2015.I am very passionate about
-engineering and technology. I also spend most of time working with my NASA
-Robotic Mining team on campus and work at the Idea Shop. I live in MSV and if
-anyone wants to chat, get food(big time foodie), or even study, feel free to
-ask.
