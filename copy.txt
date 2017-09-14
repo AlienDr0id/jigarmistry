@@ -12,12 +12,11 @@ volunteer, and providing sustainable solutions to daily problems.
 Working at the Idea Shop prototyping lab at IIT has helped me explore my passion
 for engineering. As student staff, my job is to provide consultancy to students,
 staff, and faculty on a project, idea or a design. I walk them through the
-design process of prototyping and help them create economic solutions which they
-can implement quickly and efficiently. Through my work experience for two years
-I have learned how to work and perform repairs on several machines like 3-D
-Printers, Laser Cutters, and Milling machines. I am also proficient at using
-different CAD(Computer Aided Design) softwares like Solidworks, AUTOCAD,
-AUTODESK INVENTOR, and Rhinoceros.
+basics of design process and help them create a prototype of their design.
+Through my work experience I have learned how to work and perform repairs on
+several machines like 3-D Printers, Laser Cutters, and Milling machines. I am
+also proficient at using different CAD(Computer Aided Design) softwares like
+Solidworks, AUTOCAD, AUTODESK INVENTOR, and Rhinoceros.
 
 Besides working at the Idea Shop, I had the opportunity to perform research
 under Prof. Mahesh Krishnamurthy on autonomous robotic solutions. The goal of my
