@@ -19,19 +19,19 @@ also proficient at using different CAD(Computer Aided Design) softwares like
 Solidworks, AUTOCAD, AUTODESK INVENTOR, and Rhinoceros.
 
 Besides working at the Idea Shop, I had the opportunity to perform research
-under Prof. Mahesh Krishnamurthy on autonomous robotic solutions. The goal of my
-research was to create a algorithm that could be easily be implemented on a
-robotic vehicle to make it fully autonomous with the use couple of range finding
-sensors. I designed a prototype robotic vehicle to test these algorithms, and
-the robot was capable of obstacle detection and avoidance, and could also
-navigate to any given nav-point.
+under Prof. Mahesh Krishnamurthy on autonomous robotic vehicles. The goal of my
+research was to create algorithms that could be easily be implemented on a
+robotic vehicle to make it fully autonomous by using couple of range finding
+sensors and encoders. I designed a prototype robotic vehicle to test these
+algorithms, and the robot was capable of obstacle detection and avoidance, and
+could also navigate to any given nav-point.
 
 In addition to academics, I am also involved in extracurricular activities, that
 expand my knowledge in science and engineering. I am the Lead Mechanical
 Engineer of NASA Robotic Mining Club(RMC) at IIT. Despite Being a first year
-team, we stood third over all in the mining competition. Over forty universities
+team, we stood third in the mining competition. Over forty universities
 around the world took part in the competition, and the goal of the competition
-is to design a autonomous robot capable of mining in extraterrestrial
+was to design a autonomous robot capable of mining in extraterrestrial
 environments. NASA simulates a mining environment similar to one on mars where
 teams earn design points based on the efficiency of the robot, the weight of the
 robot, the data consumed by the robot, and even how weather-proof is the robot!
