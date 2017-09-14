@@ -52,10 +52,9 @@ table {
 
 html {
 	color: white;
-	background: url(imgc.jpg) no-repeat center;
+	background: url(imgc.jpg);
 	background-attachment: local;
 	background-size: 100%;
-	background-image: 100%
   font-size: 1.25em; /* 18 / 16 = 1.25 */
   line-height: 21.6px;/* 21.6 / 18 = 1.20 aka 120% */
 }
